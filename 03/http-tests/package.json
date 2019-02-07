@@ -1,0 +1,25 @@
+{
+    "name": "http-tests",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "mocha --timeout 10000"
+    },
+    "author": "hppod",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.15.1",
+        "config": "^1.20.1",
+        "express": "^4.13.4",
+        "mongoose": "^4.4.15",
+        "morgan": "^1.7.0",
+        "use-strict": "^1.0.1"
+    },
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "chai-http": "^2.0.1",
+        "mocha": "^2.4.5"
+    }
+}
