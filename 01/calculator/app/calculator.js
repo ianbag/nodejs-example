@@ -7,16 +7,16 @@
 
 module.exports = {
 
-    //Método de soma
+    //Método para somar
     somar: (num1, num2) => num1 + num2,
 
-    //Método de subtração
+    //Método para subtratir
     subtrair: (num1, num2) => num1 - num2,
 
-    //Método de multiplicação
+    //Método para multiplicar
     multiplicar: (num1, num2) => num1 * num2,
 
-    //Método de divisão
+    //Método para dividir
     dividir: (num1, num2) => num1 / num2,
 
 };
