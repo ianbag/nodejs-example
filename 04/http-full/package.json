@@ -13,7 +13,7 @@
     "body-parser": "^1.15.1",
     "config": "^1.20.1",
     "express": "^4.13.4",
-    "mongoose": "^4.4.15",
+    "mongoose": "^5.7.5",
     "morgan": "^1.7.0",
     "nodemon": "^1.18.9",
     "use-strict": "^1.0.1"
